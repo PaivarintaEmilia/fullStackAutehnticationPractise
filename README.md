@@ -9,4 +9,13 @@
 5. Luo supabase-projektin tietokantaan käyttäjätili (valmis users-taulu), testaa kirjautua sisään
 
 
+
 # Testataan push - OlliP
+
+pöö T: perttuhei
+
+## Members
+
+
+- Annariia Ikonen (annikon3)
+
