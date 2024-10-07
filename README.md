@@ -1,6 +1,10 @@
+
 ## Luento 7, aloituskoodit
 
 ### Aloitus
+
+Konfliktin ratkaisutesti 2
+
 
 1. Kloonaa repositorio
 2. Suorita `npm install`
@@ -9,12 +13,38 @@
 5. Luo supabase-projektin tietokantaan käyttäjätili (valmis users-taulu), testaa kirjautua sisään
 
 
+
 # MOIKKA t harri
 
-pöö T: perttuhei
 
-## Members
 
-- Annariia Ikonen (annikon3)
+
+
+
+
+
+# Testataan push - OlliP_testi_3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Emilian muutos 
+
+
+### MOIKKA
+
+pöö t: perttuhei
 
 
