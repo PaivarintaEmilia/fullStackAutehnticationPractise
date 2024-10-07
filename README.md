@@ -16,18 +16,3 @@
 
 
 # Testataan push - OlliP_testi_3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Testataan OlliP_testi4
