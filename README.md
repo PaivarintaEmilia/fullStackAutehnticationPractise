@@ -9,7 +9,7 @@
 5. Luo supabase-projektin tietokantaan käyttäjätili (valmis users-taulu), testaa kirjautua sisään
 
 
-# MOIKKA
+# MOIKKA t harri
 
 pöö T: perttuhei
 
