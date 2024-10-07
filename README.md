@@ -9,4 +9,4 @@
 5. Luo supabase-projektin tietokantaan käyttäjätili (valmis users-taulu), testaa kirjautua sisään
 
 
-# Testataan push - OlliP
+# Testataan push - OlliP_test
