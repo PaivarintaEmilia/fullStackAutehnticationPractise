@@ -1,10 +1,16 @@
 import { supabase } from "@/services/supabase_client";
 import { proxy } from "valtio";
+import { z } from "zod";
+
 
 type Credentials = {
     email: string,
     password: string
 }
+const name = z.string({
+    required_error: "Name is required",
+    invalid_type_error: "Name must be a string",
+  }).email();
 
 // Käytössä oleva tilanhallintakirjasto: https://valtio.dev/docs/api/basic/proxy
 // Supabase auth reactin kanssa: https://supabase.com/docs/guides/auth/quickstarts/react
@@ -21,6 +27,8 @@ export const authStore = proxy({
 
     },
     async login(credentials: Credentials) {
+
+        name.parse(credentials.email)
 
         const { data, error } = await supabase.auth.signInWithPassword({
             email: credentials.email,
