@@ -9,13 +9,12 @@
 5. Luo supabase-projektin tietokantaan käyttäjätili (valmis users-taulu), testaa kirjautua sisään
 
 
-
-
-
-
-
-
-
-
-
 # MOIKKA
+
+pöö T: perttuhei
+
+## Members
+
+- Annariia Ikonen (annikon3)
+
+
