@@ -18,6 +18,17 @@ Konfliktin ratkaisutesti 2
 
 
 
+# Testataan push - OlliP
+
+pöö T: perttuhei
+
+
+
+
+
+- Annariia Ikonen (annikon3)
+
+
 
 
 
