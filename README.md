@@ -1,5 +1,9 @@
-Konfliktin ratkaisutesti 2
 
+## Luento 7, aloituskoodit
+
+### Aloitus
+
+Konfliktin ratkaisutesti 2
 
 
 1. Kloonaa repositorio
@@ -14,6 +18,9 @@ Konfliktin ratkaisutesti 2
 
 
 
+
+
+# Testataan push - OlliP_testi_3
 
 
 
@@ -32,8 +39,9 @@ Konfliktin ratkaisutesti 2
 
 ## Emilian muutos 
 
-=======
+
 ### MOIKKA
 
 pöö t: perttuhei
+
 
