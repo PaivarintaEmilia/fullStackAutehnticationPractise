@@ -7,3 +7,12 @@
 3. Luo `.env` tiedosto `.env.example` tiedoston mukaisesti omilla supabase-tiedoilla
 4. Käynnistä kehityspalvelin `npm run dev` ja perehdy koodiin.
 5. Luo supabase-projektin tietokantaan käyttäjätili (valmis users-taulu), testaa kirjautua sisään
+<<<<<<< Updated upstream
+=======
+pöö T: perttuhei
+
+## Members
+
+- Annariia Ikonen (annikon3)
+- Perttu Heikkala (perttuhei)
+>>>>>>> Stashed changes
