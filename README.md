@@ -1,6 +1,6 @@
-## Luento 7, aloituskoodit
+Konfliktin ratkaisutesti 2
 
-### Aloitus
+
 
 1. Kloonaa repositorio
 2. Suorita `npm install`
@@ -30,3 +30,4 @@
 
 
 ## Emilian muutos 
+
